@@ -1,8 +1,6 @@
 # 💫 Hi 👋, I'm Gaurav Saini
 **A passionate .Net Developer from India**
 
-Email Me 👉 ✉️ **gauravsaini180993@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-
 - 🔭 **I’m currently working on:** Enterprise-level web applications using ASP.NET Core, Web APIs, and SQL Server, focusing on performance optimization and clean architecture
 - 🌱 **I’m currently learning:** .NET 8, Microservices Architecture, Azure Cloud
 - 👯 **I’m looking to collaborate on:** .NET / ASP.NET Core projects, REST APIs, Microservices-based applications
