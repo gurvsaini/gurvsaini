@@ -1,11 +1,11 @@
 # 💫 Hi 👋, I'm Gaurav Saini
-**A passionate .Net Developer from India**
+**A Python Developer with Enterprise Product Experience from India**
 
-- 🔭 **I’m currently working on:** Enterprise-level web applications using ASP.NET Core, Web APIs, and SQL Server, focusing on performance optimization and clean architecture
-- 🌱 **I’m currently learning:** .NET 8, Microservices Architecture, Azure Cloud
-- 👯 **I’m looking to collaborate on:** .NET / ASP.NET Core projects, REST APIs, Microservices-based applications
-- 🤔 **I’m looking for help with:** Advanced Microservices design, Azure DevOps pipelines, and scalable system architecture
-- 💬 **Ask me about:** C#, ASP.NET Core, Web APIs, SQL Server, Entity Framework, and Backend Development
+- 🔭 **I’m currently working on:** Building Python-based solutions including REST APIs applications using FastAPI, Pandas, and SQL, inspired by real enterprise use cases.
+- 🌱 **I’m currently learning:** Advanced Python development, FastAPI, backend best practices, and system design concepts for scalable applications.
+- 👯 **I’m looking to collaborate on:** Python projects related to APIs, backend services.
+- 🤔 **I’m looking for help with:** Designing scalable Python backends, API optimization, and real-world system architecture.
+- 💬 **Ask me about:** Python, Pandas, SQL, REST APIs, backend development, and transitioning from .NET to Python in enterprise environments.
 - 📫 **How to reach me:** gauravsaini180993@gmail.com
 - 😄 **Pronouns:** Gaurav
 - ⚡ **Fun fact:** Code, coffee, repeat 🔁
